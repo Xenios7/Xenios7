@@ -45,25 +45,8 @@ I have solved **130+ algorithmic problems on LeetCode**, demonstrating strong pr
 
 ---
 
-## 🚀 Key Projects
-
-### [Healthcare-Booking-API](https://github.com/Xenios7/Healthcare-Booking-Api)
-A Java Spring Boot backend system for booking medical appointments, implementing **JWT authentication**, **role-based access control**, and **PostgreSQL** for persistence.  
-Includes API documentation with **Swagger UI** and thorough validation for data integrity.
-
-### [Optimized-Word-Recommender](https://github.com/Xenios7/Optimized-Word-Recommender)
-Java-based **word recommendation engine** using a **Trie data structure** with **Robin Hood Hashing** for fast lookups and frequency-based ranking, similar to Google's autocomplete.
-
-### [CO2 Emissions Calculator](https://github.com/Xenios7/CO2-emissions-calculator)
-Web application for estimating carbon footprints, built with **Python (Flask)**, JavaScript, HTML, CSS, and **PostgreSQL**.  
-Provides an intuitive UI and supports multiple activity-based emission calculations.
-
-### [Music Genre Classification AI](https://github.com/Xenios7/Music-Genre-Classification-AI)
-Machine learning model that classifies music genres using **Librosa** for audio feature extraction and a **Random Forest Classifier**.  
-Includes preprocessing, feature engineering, and model evaluation.
-
----
-
 ## 📫 Contact
-- **Email:** xenios04@gmail.com  
-- **LinkedIn:** [linkedin.com/in/xenios-gerolemou-594086202](https://www.linkedin.com/in/xenios-gerolemou-594086202/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://xenios7.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xenios-gerolemou-594086202/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xenios04@gmail.com)
