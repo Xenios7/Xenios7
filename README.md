@@ -13,8 +13,8 @@ I have solved **130+ algorithmic problems on LeetCode**, demonstrating strong pr
 ---
 
 ## 🛠 Technical Skills
-- **Languages:** Java, Python, C++, C  
-- **Backend:** Spring Boot, REST APIs, FastAPI  
+- **Languages:** Java, C#, Python, C++, C  
+- **Backend:** Spring Boot, .NET, REST APIs, FastAPI 
 - **Databases:** MySQL, PostgreSQL  
 - **Tools:** Postman, Swagger UI, Git, Docker  
 - **AI/ML:** Scikit-learn, Librosa (audio processing), feature engineering  
