@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Computer Science student at the University of Cyprus (GPA: 8.15)** with a strong foundation in **Java, Python, C++, and C**.  
+I am a **Computer Science student at the University of Cyprus (GPA: 8.19)** with a strong foundation in **Java, Python, C++, and C**.  
 My interests lie in **backend engineering, API development, and AI/ML applications**.  
 I have solved **130+ algorithmic problems on LeetCode**, demonstrating strong problem-solving skills and a deep understanding of **data structures and algorithms**.
 
