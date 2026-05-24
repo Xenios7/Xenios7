@@ -11,11 +11,12 @@ I am a Computer Science student at the University of Cyprus (GPA: 8.19) with a s
 ---
 
 ## 🛠 Technical Skills
-- **Languages:** Java, Go, C#, Python, C++, C  
+- **Languages:** Java, Go, C#, Python, C  
 - **Frameworks:** Spring Boot, .NET, FastAPI 
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Postman, Swagger UI, Git, Docker  
-- **AI/ML:** Scikit-learn, Librosa
+- **Databases:** MySQL, PostgreSQL
+- **Infrastructure:** Docker, Prometheus, Grafana, Git
+- **Tools:** Postman, Swagger UI  
+- **Parallel Computing:** pthreads, OpenMP, SIMD
 - **Other:** HTML, CSS (basic front-end skills), Agile teamwork
 
 <!-- Main Backend Stack -->
