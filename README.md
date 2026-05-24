@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 I am a **Computer Science student at the University of Cyprus (GPA: 8.19)** with a strong foundation in **Java, Go, C#, Python,
-C++, and C**.  
+ C++, and C**.  
 My interests lie in **backend engineering, Distributed systems, API development, and AI/ML applications**.  
 
 ---
