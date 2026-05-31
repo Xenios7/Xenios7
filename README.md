@@ -1,6 +1,6 @@
 # Xenios Gerolemou
 
-**Computer Science Undergraduate | Backend Development & AI Enthusiast**  
+**Computer Science Undergraduate | Backend Development**  
 📍 Nicosia, Cyprus | 📧 xenios04@gmail.com | [LinkedIn](https://www.linkedin.com/in/xenios-gerolemou-594086202/)
 
 ---
